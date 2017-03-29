@@ -31,10 +31,10 @@
     <!-- Setting the above meta tags including Facebook and Twitter can help more people find and share your content. -->
 
     <!-- The title appears on the tab in your browser -->
-    <title> </title>
+    <title> EmmaSlayton </title>
 
     <!-- Favicons are the tiny icons that appear on the tab in your browser. You can create a Favicon at http://www.favicon.cc/ -->
-    <link rel="icon" href="">
+    <link rel="icon" href="/files/favicon.ico">
 
     <!-- Bootstrap, a framework that helps you develop with responsive design / mobile-first. See also http://getbootstrap.com/ -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
