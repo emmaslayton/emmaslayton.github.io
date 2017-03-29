@@ -178,8 +178,9 @@ body {
 
 
 body {
-    margin: 60px auto;
-    width: 70%;
+    	margin: 60px auto;
+    	width: 70%;
+	padding-top: 70px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
